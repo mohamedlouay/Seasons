@@ -1,0 +1,1650 @@
+{
+        "blue" : {
+                "1": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":3,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "2": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "3": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":3,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "4": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":2,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "5": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                }
+        },
+        "vert" : {
+                "1": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":3,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                1,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "2": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "3": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":3,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "4": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":2,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "5": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                }
+        },
+        "jaune" : {
+                "1": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":3,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "2": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "3": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation": true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":3,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "4": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                2,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "5": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                1,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                }
+        },
+        "rouge" : {
+                "1": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":3,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                },
+                "2": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "3": {
+                        "faces" : {
+                                "1" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":true
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":3,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "4": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                1
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":2,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                }
+                        }
+                },
+                "5": {
+                        "faces" : {
+                                "1" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":2,
+                                        "crystallisation":true,
+                                        "grind":false
+                                },
+                                "2" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                        ],
+                                        "points":6,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "3" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "4" : {
+                                        "star": false,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":1,
+                                        "moves":2,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "5" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                        ],
+                                        "points":0,
+                                        "moves":3,
+                                        "crystallisation":false,
+                                        "grind":false
+                                },
+                                "6" : {
+                                        "star": true,
+                                        "energies":[
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                        ],
+                                        "points":0,
+                                        "moves":1,
+                                        "crystallisation":true,
+                                        "grind":false
+                                }
+                        }
+                }
+        }
+}
